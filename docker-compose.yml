@@ -1,0 +1,4 @@
+test:
+  image: busybox
+  command: env
+  env_file: .env
